@@ -1,5 +1,4 @@
 import './App.css';
-import autocomplete from 'autocompleter';
 
 let listDiagnosis = [];
 var icdDiagnoses = []
